@@ -1,0 +1,33 @@
+#o{
+    color: orange;
+}
+section{
+    background-color: black;
+    height: 700px;
+    width: 500px;
+    margin: auto;
+    border: 2px solid black;
+
+}
+.he{
+    color: grey;
+    font-size: small;
+}
+#te{
+    color: white;
+}
+#us{
+    color: white;
+}
+#align{
+    text-align: center;
+}
+.menu{
+    color: white;
+    text-align: center;
+}
+img{
+    float: left;
+    height: 150px;
+    width: 200px;
+}
